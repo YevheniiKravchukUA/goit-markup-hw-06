@@ -1,0 +1,26 @@
+:root {
+  --second-font-family: 'Raleway', sens-serif;
+  --main-font-family: 'Roboto', sens-serif;
+
+  --primary-weight: 400;
+  --medium-weight: 500;
+  --title-weight: 700;
+  --ultra-weight: 900;
+
+  --primary-size: 14px;
+  --medium-size: 16px;
+  --large-size: 18px;
+  --big-size: 36px;
+
+  --main-color: #212121;
+  --second-color: #757575;
+  --active-color: #2196f3;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --svg-main-color: #afb1b8;
+
+  --dark-background: #2f303a;
+  --light-background: #f5f4fa;
+
+  --hover-transition: 1000ms cubic-bezier(0.4, 0, 0.2, 1);
+}
